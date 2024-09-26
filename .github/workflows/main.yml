@@ -1,7 +1,7 @@
 name: Trigger auto deployment for demo-container
 
 env:
-  AZURE_CONTAINER_APP_NAME: RS-chat-web-app-f1
+  AZURE_CONTAINER_APP_NAME: rs-container-app
   AZURE_GROUP_NAME: genai3x-edx-course-resource-group
 
 # When this action will be executed
